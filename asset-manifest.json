@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.68b58c7e.css",
-    "main.js": "/static/js/main.61b08c45.js",
+    "main.js": "/static/js/main.c596130a.js",
     "static/media/quranic.ttf": "/static/media/quranic.dba042d0d69119c23f6a.ttf",
     "static/media/Uthmani.otf": "/static/media/Uthmani.e648437486a18d598fbd.otf",
     "static/media/lantern.png": "/static/media/lantern.ca972d761d1481130dba.png",
     "static/media/quran.png": "/static/media/quran.4291620f6a0b2d545f38.png",
     "index.html": "/index.html",
     "main.68b58c7e.css.map": "/static/css/main.68b58c7e.css.map",
-    "main.61b08c45.js.map": "/static/js/main.61b08c45.js.map"
+    "main.c596130a.js.map": "/static/js/main.c596130a.js.map"
   },
   "entrypoints": [
     "static/css/main.68b58c7e.css",
-    "static/js/main.61b08c45.js"
+    "static/js/main.c596130a.js"
   ]
 }
